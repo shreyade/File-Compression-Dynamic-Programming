@@ -1,10 +1,10 @@
-## Specification
+## _Specification_
 
 After a file compression failure, all the white space among words in a text file was lost. Write a program which utilizes dynamic programming to get all of the possible original documents (i.e. with white spaces between words) and ranks them in order of likelihood; all in minimal time. 
 
 ### What you have at your disposal: 
 
-- List of unsorted top 100000 English words most used up until August 2005 which includes #comments showing you the popularity class of the word in the language: dictionary.txtPreview the document
+- List of unsorted top 100000 English words most used up until August 2005 which includes #comments showing you the popularity class of the word in the language: dictionary.txt
 
 
 
